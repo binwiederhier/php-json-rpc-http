@@ -1,5 +1,5 @@
 {
-    "name": "datto/json-rpc-http",
+    "name": "binwiederhier/json-rpc-http",
     "type": "library",
     "description": "HTTP client and server for JSON-RPC 2.0",
     "keywords": ["php", "json", "rpc", "jsonrpc", "json-rpc", "php-json-rpc", "http", "client", "server"],
